@@ -1,0 +1,129 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            38:00:00:00:03:4e:8e:cb:48:09:25:01:bc:00:00:00:00:00:03
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = BG, organizationIdentifier = NTRBG-203397356, O = Evrotrust Technologies JSC, OU = Evrotrust Qualified Root Authority, CN = Evrotrust RSA Root CA
+        Validity
+            Not Before: May 21 00:34:35 2016 GMT
+            Not After : May 21 00:44:35 2026 GMT
+        Subject: C = BG, organizationIdentifier = NTRBG-203397356, O = Evrotrust Technologies JSC, OU = Qualified Operational CA, CN = Evrotrust RSA Operational CA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:ac:52:af:16:f1:59:76:f9:0d:6d:6b:a8:56:1f:
+                    4d:a7:22:4f:7a:4c:78:a0:4b:c5:ff:9c:01:27:cb:
+                    64:37:1f:c5:57:78:a2:eb:15:7d:01:56:97:4e:44:
+                    29:81:4e:4a:d3:50:e8:2b:f2:24:ca:92:ea:d3:41:
+                    30:f3:a3:1a:d3:30:65:f0:9c:cd:c6:40:86:c3:b1:
+                    8a:6c:95:99:0b:04:9a:2a:9d:88:96:0d:c4:22:97:
+                    e1:7c:32:f0:a8:5f:00:d3:f0:85:91:06:84:d9:7b:
+                    df:88:f0:c2:0b:9e:6d:39:5e:02:4e:f8:f1:38:41:
+                    d1:78:7d:d3:29:aa:ea:78:a0:e9:15:bf:6d:ff:54:
+                    2e:26:7f:72:b5:89:8c:01:bf:19:71:96:b1:65:16:
+                    a1:7f:8c:a7:c8:f2:16:ee:17:7d:78:a6:b1:a1:16:
+                    7c:69:a3:10:0e:3a:47:fa:4f:38:b1:74:58:39:30:
+                    3b:93:47:2f:cc:51:fd:00:ca:ce:7e:08:84:28:5c:
+                    11:23:a1:de:2e:02:a5:89:2a:6c:ea:d3:3e:aa:b8:
+                    86:b7:a8:17:97:1d:92:f4:11:9a:56:61:e4:ab:00:
+                    f4:67:1d:8e:d2:c3:89:98:5b:3e:12:00:8d:af:b2:
+                    d3:b6:62:60:d0:e2:4b:30:47:05:c2:ab:23:70:dd:
+                    11:73
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                7F:3E:64:59:85:2B:DD:23:29:C2:01:E7:CB:C3:69:C0:87:93:2B:08
+            X509v3 Certificate Policies: 
+                Policy: X509v3 Any Policy
+                  CPS: http://www.evrotrust.com/cps
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, Code Signing, E-mail Protection, Time Stamping, OCSP Signing
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE, pathlen:0
+            X509v3 Subject Alternative Name: 
+                URI:http://www.evrotrust.com, email:ca@evrotrust.com
+            X509v3 Authority Key Identifier: 
+                keyid:74:5C:A1:40:73:2E:1F:E6:F9:3B:BC:AB:A0:A4:A7:54:44:74:4F:70
+
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://ca.evrotrust.com/crl/EvrotrustRSARootCA.crl
+
+            Authority Information Access: 
+                CA Issuers - URI:http://ca.evrotrust.com/aia/EvrotrustRSARootCA.crt
+                OCSP - URI:http://ca.evrotrust.com/ocsp
+
+    Signature Algorithm: sha256WithRSAEncryption
+         4c:31:7c:77:bc:95:f7:d7:20:97:e7:ac:19:7c:dc:55:3c:92:
+         5a:36:6e:9e:15:79:0e:55:3f:79:b1:30:3c:5c:53:04:7c:5c:
+         28:56:56:49:9e:2e:5f:99:db:09:35:a4:59:2f:9e:90:ae:ba:
+         bd:ad:50:ce:eb:b0:a2:63:8d:99:a6:b7:8f:2e:8c:96:41:9e:
+         d6:c8:a5:67:2d:e5:7a:fb:a4:95:6a:59:45:0c:13:3e:a4:de:
+         23:37:e4:cf:df:bc:df:db:d8:1c:95:ae:1d:da:94:6b:bc:aa:
+         b2:70:52:68:f7:12:f9:09:f5:ce:84:a5:99:15:42:c5:b3:c9:
+         4a:1d:8b:9c:60:ab:02:36:84:ae:62:71:f5:3b:d9:66:b6:69:
+         82:1c:3b:80:53:d1:04:be:f1:74:77:4a:09:39:14:a3:75:c8:
+         00:d0:c8:ca:8f:dd:b7:27:a1:64:f8:31:49:69:84:37:84:51:
+         00:d1:e7:76:08:69:cb:99:1f:30:cc:d8:be:94:b1:a4:cf:c9:
+         cb:d3:15:2f:b3:8e:d0:e3:3e:73:86:3d:8d:c2:0a:92:ad:c0:
+         20:e6:ae:38:63:53:42:2b:17:79:b2:62:af:69:8f:5f:3f:83:
+         e8:3a:94:0c:49:42:8a:0c:33:4a:d1:68:4d:cc:22:0f:1c:e3:
+         58:71:56:0e:b6:78:4b:e2:4b:ed:af:5f:6b:72:7b:e4:64:ee:
+         9e:c4:ae:0d:c7:3c:71:39:41:45:fb:3a:a0:1c:9e:39:08:0d:
+         d8:93:57:2d:fe:bf:9c:94:56:e3:6c:ea:a2:c0:17:2a:c2:3e:
+         16:c7:17:33:92:96:9f:a2:44:36:59:35:fe:5c:e0:5b:98:b2:
+         48:04:75:de:b4:c2:72:3a:9a:b6:78:d3:ab:ec:fb:49:82:06:
+         49:b7:17:8a:8d:3f:00:87:4b:b9:ec:40:43:c9:b9:a2:bd:62:
+         f9:6b:c5:a1:28:78:15:2d:e1:ec:fa:bd:a4:95:e5:05:7a:4c:
+         a9:72:38:2b:27:ca:eb:c4:c4:5b:6d:d2:29:c8:c0:d4:60:86:
+         8a:1d:04:3b:6f:46:7f:69:88:ee:5e:c2:2b:2c:c1:f2:1f:a3:
+         f3:7f:e3:82:80:62:88:21:af:ec:5e:0d:e3:13:a7:1c:47:40:
+         7c:f9:41:df:be:fb:2f:11:c5:04:07:81:2b:c1:2d:8c:88:e9:
+         7c:30:d2:48:43:bb:ee:f9:fd:80:b6:96:50:57:05:e9:d3:1b:
+         e2:e1:b7:59:02:53:78:69:44:a3:49:7c:87:8d:f9:0e:0f:2a:
+         02:28:90:8d:54:fb:9a:f0:75:5c:86:72:05:05:79:3f:ac:a4:
+         cf:3e:cb:db:6a:19:2d:a7
+-----BEGIN CERTIFICATE-----
+MIIGpTCCBI2gAwIBAgITOAAAAANOjstICSUBvAAAAAAAAzANBgkqhkiG9w0BAQsF
+ADCBmTELMAkGA1UEBhMCQkcxGDAWBgNVBGETD05UUkJHLTIwMzM5NzM1NjEjMCEG
+A1UEChMaRXZyb3RydXN0IFRlY2hub2xvZ2llcyBKU0MxKzApBgNVBAsTIkV2cm90
+cnVzdCBRdWFsaWZpZWQgUm9vdCBBdXRob3JpdHkxHjAcBgNVBAMTFUV2cm90cnVz
+dCBSU0EgUm9vdCBDQTAeFw0xNjA1MjEwMDM0MzVaFw0yNjA1MjEwMDQ0MzVaMIGW
+MQswCQYDVQQGEwJCRzEYMBYGA1UEYRMPTlRSQkctMjAzMzk3MzU2MSMwIQYDVQQK
+ExpFdnJvdHJ1c3QgVGVjaG5vbG9naWVzIEpTQzEhMB8GA1UECxMYUXVhbGlmaWVk
+IE9wZXJhdGlvbmFsIENBMSUwIwYDVQQDExxFdnJvdHJ1c3QgUlNBIE9wZXJhdGlv
+bmFsIENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArFKvFvFZdvkN
+bWuoVh9NpyJPekx4oEvF/5wBJ8tkNx/FV3ii6xV9AVaXTkQpgU5K01DoK/IkypLq
+00Ew86Ma0zBl8JzNxkCGw7GKbJWZCwSaKp2Ilg3EIpfhfDLwqF8A0/CFkQaE2Xvf
+iPDCC55tOV4CTvjxOEHReH3TKarqeKDpFb9t/1QuJn9ytYmMAb8ZcZaxZRahf4yn
+yPIW7hd9eKaxoRZ8aaMQDjpH+k84sXRYOTA7k0cvzFH9AMrOfgiEKFwRI6HeLgKl
+iSps6tM+qriGt6gXlx2S9BGaVmHkqwD0Zx2O0sOJmFs+EgCNr7LTtmJg0OJLMEcF
+wqsjcN0RcwIDAQABo4IB5TCCAeEwHQYDVR0OBBYEFH8+ZFmFK90jKcIB58vDacCH
+kysIMD4GA1UdIAQ3MDUwMwYEVR0gADArMCkGCCsGAQUFBwIBFh1odHRwOi8vd3d3
+LmV2cm90cnVzdC5jb20vY3BzADBFBgNVHSUEPjA8BggrBgEFBQcDAQYIKwYBBQUH
+AwIGCCsGAQUFBwMDBggrBgEFBQcDBAYIKwYBBQUHAwgGCCsGAQUFBwMJMA4GA1Ud
+DwEB/wQEAwIBhjASBgNVHRMBAf8ECDAGAQH/AgEAMDUGA1UdEQQuMCyGGGh0dHA6
+Ly93d3cuZXZyb3RydXN0LmNvbYEQY2FAZXZyb3RydXN0LmNvbTAfBgNVHSMEGDAW
+gBR0XKFAcy4f5vk7vKugpKdURHRPcDBDBgNVHR8EPDA6MDigNqA0hjJodHRwOi8v
+Y2EuZXZyb3RydXN0LmNvbS9jcmwvRXZyb3RydXN0UlNBUm9vdENBLmNybDB4Bggr
+BgEFBQcBAQRsMGowPgYIKwYBBQUHMAKGMmh0dHA6Ly9jYS5ldnJvdHJ1c3QuY29t
+L2FpYS9FdnJvdHJ1c3RSU0FSb290Q0EuY3J0MCgGCCsGAQUFBzABhhxodHRwOi8v
+Y2EuZXZyb3RydXN0LmNvbS9vY3NwMA0GCSqGSIb3DQEBCwUAA4ICAQBMMXx3vJX3
+1yCX56wZfNxVPJJaNm6eFXkOVT95sTA8XFMEfFwoVlZJni5fmdsJNaRZL56Qrrq9
+rVDO67CiY42ZprePLoyWQZ7WyKVnLeV6+6SVallFDBM+pN4jN+TP37zf29gcla4d
+2pRrvKqycFJo9xL5CfXOhKWZFULFs8lKHYucYKsCNoSuYnH1O9lmtmmCHDuAU9EE
+vvF0d0oJORSjdcgA0MjKj923J6Fk+DFJaYQ3hFEA0ed2CGnLmR8wzNi+lLGkz8nL
+0xUvs47Q4z5zhj2NwgqSrcAg5q44Y1NCKxd5smKvaY9fP4PoOpQMSUKKDDNK0WhN
+zCIPHONYcVYOtnhL4kvtr19rcnvkZO6exK4NxzxxOUFF+zqgHJ45CA3Yk1ct/r+c
+lFbjbOqiwBcqwj4WxxczkpafokQ2WTX+XOBbmLJIBHXetMJyOpq2eNOr7PtJggZJ
+txeKjT8Ah0u57EBDybmivWL5a8WhKHgVLeHs+r2kleUFekypcjgrJ8rrxMRbbdIp
+yMDUYIaKHQQ7b0Z/aYjuXsIrLMHyH6Pzf+OCgGKIIa/sXg3jE6ccR0B8+UHfvvsv
+EcUEB4ErwS2MiOl8MNJIQ7vu+f2AtpZQVwXp0xvi4bdZAlN4aUSjSXyHjfkODyoC
+KJCNVPua8HVchnIFBXk/rKTPPsvbahktpw==
+-----END CERTIFICATE-----
