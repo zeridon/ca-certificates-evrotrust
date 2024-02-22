@@ -4,3 +4,5 @@
 This package provides [EvroTrust](https://www.evrotrust.com/landing/en) (sub-)root certificates in PEM format. Root certificates allow SSL-based applications to check for the authenticity of certificates issued by the EvroTrust authority.
 
 [EvroTrust](https://www.evrotrust.com/landing/en) is a Bulgarian official eID issuer with full eIDAS compliance.
+
+Precompiled debian style packages can be found on the [Latest Release Page](https://github.com/zeridon/ca-certificates-evrotrust/releases/latest)
