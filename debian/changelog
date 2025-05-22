@@ -1,3 +1,10 @@
+ca-certificates-evrotrust (20250522) unstable; urgency=medium
+
+  * Add new EvrotrustRSAQOperationalCA2024.crt
+  * Reformat existing certs with new openssl version
+
+ -- Vladimir Vitkov <vvitkov@gmail.com>  Thu, 22 May 2025 10:55:58 +0300
+
 ca-certificates-evrotrust (20240807) unstable; urgency=medium
 
   * Add triggers file to auto refresh certs
