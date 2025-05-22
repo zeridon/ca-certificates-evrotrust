@@ -11,7 +11,7 @@ Certificate:
         Subject: C = BG, organizationIdentifier = NTRBG-203397356, O = Evrotrust Technologies JSC, OU = Evrotrust Qualified Root Authority, CN = Evrotrust RSA Root CA
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
-                RSA Public-Key: (4096 bit)
+                Public-Key: (4096 bit)
                 Modulus:
                     00:cf:9b:af:59:19:bb:73:47:52:74:9f:82:66:4e:
                     40:56:76:2b:04:79:49:45:33:4d:ab:db:8a:c2:6b:
@@ -57,35 +57,36 @@ Certificate:
             X509v3 Subject Key Identifier: 
                 74:5C:A1:40:73:2E:1F:E6:F9:3B:BC:AB:A0:A4:A7:54:44:74:4F:70
     Signature Algorithm: sha384WithRSAEncryption
-         92:89:42:2b:98:02:98:ee:a9:f1:47:e6:35:86:d7:7b:b7:54:
-         3b:c9:d0:a6:12:e3:1d:8f:fc:e6:50:39:96:d1:d9:fc:04:40:
-         35:c1:04:e2:7d:09:d9:3b:2d:d1:fc:20:c9:8b:b1:e6:48:2b:
-         67:12:6b:c2:4d:e2:03:90:36:95:71:dc:18:e6:03:43:5a:29:
-         e3:f1:82:ff:31:ef:07:8e:24:f3:5a:0b:9f:99:85:8a:ed:44:
-         a4:d3:06:78:19:ed:21:c6:77:53:ed:64:92:65:1e:83:12:7e:
-         1d:7f:be:78:b1:64:37:85:8b:2d:4f:b1:a3:54:4b:23:ab:a1:
-         92:e7:d2:56:0c:56:8a:f2:de:83:f4:98:43:f7:87:cb:e2:b8:
-         7b:ac:12:c1:44:ac:c6:a2:d7:cc:d7:da:ea:5f:39:8b:fd:04:
-         85:6e:77:c7:82:74:f1:99:4b:28:8a:18:bd:77:4f:1d:32:1a:
-         f9:8f:df:e0:fc:b9:42:67:c6:29:89:ff:40:2e:cd:ad:d4:c1:
-         3e:17:6a:62:be:0a:3e:1c:fd:8f:aa:d8:c7:9e:5a:41:c2:70:
-         73:7e:1e:9c:80:b6:17:14:00:d5:95:57:63:b5:b9:c2:fa:64:
-         0e:30:a6:71:58:7a:14:d7:c1:ea:ad:cf:00:e0:75:55:88:6b:
-         2d:cb:9b:26:95:21:d7:df:69:76:84:13:87:f0:93:df:de:5e:
-         a4:3a:c3:95:2e:36:43:6d:36:fa:24:b3:86:36:9e:ee:91:5b:
-         b9:45:c4:cb:b0:68:b2:7a:c1:b8:82:38:d2:31:bb:cc:59:f4:
-         4d:95:d2:9f:a3:f4:46:12:22:cb:32:63:9e:45:6b:62:ff:5b:
-         79:b7:2f:db:c9:62:4b:b3:bb:5e:36:1e:21:e6:07:d5:31:e2:
-         25:4c:de:f4:56:11:69:51:7e:22:41:dc:cf:bd:a3:ad:e6:45:
-         2c:05:3c:aa:f9:c0:e2:0e:db:e9:73:af:1a:0c:5c:89:01:da:
-         58:2a:e4:16:94:0e:f5:a1:3a:54:2c:d6:c0:dc:f5:e4:e7:7c:
-         e6:43:0a:6b:e5:1f:8b:18:41:ea:77:2f:d3:2f:cb:58:6d:31:
-         ef:8c:6d:fe:12:e2:f9:cd:8a:02:f6:de:f1:ed:de:37:d4:ec:
-         f3:f0:ce:45:b2:5c:47:a1:4e:e6:0d:26:32:1e:85:bb:d3:28:
-         f2:0b:e6:63:de:46:b3:18:98:6c:ed:70:6e:45:19:5a:e3:49:
-         28:70:41:43:fa:93:3d:bf:0f:72:57:ce:8e:d1:90:57:a9:a6:
-         50:c1:d2:f5:07:4e:5d:ac:90:a8:28:6d:01:a2:fd:d9:8c:e2:
-         fc:28:67:45:32:ee:43:cd
+    Signature Value:
+        92:89:42:2b:98:02:98:ee:a9:f1:47:e6:35:86:d7:7b:b7:54:
+        3b:c9:d0:a6:12:e3:1d:8f:fc:e6:50:39:96:d1:d9:fc:04:40:
+        35:c1:04:e2:7d:09:d9:3b:2d:d1:fc:20:c9:8b:b1:e6:48:2b:
+        67:12:6b:c2:4d:e2:03:90:36:95:71:dc:18:e6:03:43:5a:29:
+        e3:f1:82:ff:31:ef:07:8e:24:f3:5a:0b:9f:99:85:8a:ed:44:
+        a4:d3:06:78:19:ed:21:c6:77:53:ed:64:92:65:1e:83:12:7e:
+        1d:7f:be:78:b1:64:37:85:8b:2d:4f:b1:a3:54:4b:23:ab:a1:
+        92:e7:d2:56:0c:56:8a:f2:de:83:f4:98:43:f7:87:cb:e2:b8:
+        7b:ac:12:c1:44:ac:c6:a2:d7:cc:d7:da:ea:5f:39:8b:fd:04:
+        85:6e:77:c7:82:74:f1:99:4b:28:8a:18:bd:77:4f:1d:32:1a:
+        f9:8f:df:e0:fc:b9:42:67:c6:29:89:ff:40:2e:cd:ad:d4:c1:
+        3e:17:6a:62:be:0a:3e:1c:fd:8f:aa:d8:c7:9e:5a:41:c2:70:
+        73:7e:1e:9c:80:b6:17:14:00:d5:95:57:63:b5:b9:c2:fa:64:
+        0e:30:a6:71:58:7a:14:d7:c1:ea:ad:cf:00:e0:75:55:88:6b:
+        2d:cb:9b:26:95:21:d7:df:69:76:84:13:87:f0:93:df:de:5e:
+        a4:3a:c3:95:2e:36:43:6d:36:fa:24:b3:86:36:9e:ee:91:5b:
+        b9:45:c4:cb:b0:68:b2:7a:c1:b8:82:38:d2:31:bb:cc:59:f4:
+        4d:95:d2:9f:a3:f4:46:12:22:cb:32:63:9e:45:6b:62:ff:5b:
+        79:b7:2f:db:c9:62:4b:b3:bb:5e:36:1e:21:e6:07:d5:31:e2:
+        25:4c:de:f4:56:11:69:51:7e:22:41:dc:cf:bd:a3:ad:e6:45:
+        2c:05:3c:aa:f9:c0:e2:0e:db:e9:73:af:1a:0c:5c:89:01:da:
+        58:2a:e4:16:94:0e:f5:a1:3a:54:2c:d6:c0:dc:f5:e4:e7:7c:
+        e6:43:0a:6b:e5:1f:8b:18:41:ea:77:2f:d3:2f:cb:58:6d:31:
+        ef:8c:6d:fe:12:e2:f9:cd:8a:02:f6:de:f1:ed:de:37:d4:ec:
+        f3:f0:ce:45:b2:5c:47:a1:4e:e6:0d:26:32:1e:85:bb:d3:28:
+        f2:0b:e6:63:de:46:b3:18:98:6c:ed:70:6e:45:19:5a:e3:49:
+        28:70:41:43:fa:93:3d:bf:0f:72:57:ce:8e:d1:90:57:a9:a6:
+        50:c1:d2:f5:07:4e:5d:ac:90:a8:28:6d:01:a2:fd:d9:8c:e2:
+        fc:28:67:45:32:ee:43:cd
 -----BEGIN CERTIFICATE-----
 MIIGADCCA+igAwIBAgIQbG7Jv0hRcqVL1A8neGJSRTANBgkqhkiG9w0BAQwFADCB
 mTELMAkGA1UEBhMCQkcxGDAWBgNVBGETD05UUkJHLTIwMzM5NzM1NjEjMCEGA1UE
